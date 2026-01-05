@@ -16,7 +16,7 @@ const Contact = () => {
       icon: <Linkedin className="w-6 h-6" />,
       label: "LinkedIn",
       value: "Connect with me",
-      href: "https://www.linkedin.com/in/vedant-rajhans-ab5b5827a/",
+      href: "https://www.linkedin.com/in/vedant-rajhans-0218682b8/",
     },
     {
       icon: <Github className="w-6 h-6" />,
