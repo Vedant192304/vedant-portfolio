@@ -6,6 +6,26 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 const Experience = () => {
   const { ref, isVisible } = useScrollAnimation();
   const experiences = [
+     {
+      title: "Fullstack Development Intern",
+      company: "Neatleap IT Training and Solutions",
+      period: "Jan 2026 – Present",
+      description: [
+        "Selected as a Fullstack Intern following a competitive technical interview process.",
+        "Engaged in a professional internship focusing on full-stack development using MongoDB, Express.js, React.js, and Node.js.",
+        "Underwent a rigorous 30-day performance observation period to evaluate technical proficiency and integration within the development team.",
+        "Collaborated on IT solutions and training projects under the guidance of industry professionals at an ISO 9001:2015 certified organization",
+      ],
+      technologies: [
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "MERN Stack Architecture",
+      ],
+      certificateLink:
+        "https://drive.google.com/file/d/1HBPPJEak-RO8LMOVnMzBqC5HPkvNL2CE/view?usp=sharing",
+    },
     {
       title: "Front End Web Development Intern",
       company: "Edunet Foundation (AICTE - IBM SkillsBuild)",
