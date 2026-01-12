@@ -13,8 +13,7 @@ const Experience = () => {
       description: [
         "Selected as a Fullstack Intern following a competitive technical interview process.",
         "Engaged in a professional internship focusing on full-stack development using MongoDB, Express.js, React.js, and Node.js.",
-        "Underwent a rigorous 30-day performance observation period to evaluate technical proficiency and integration within the development team.",
-        "Collaborated on IT solutions and training projects under the guidance of industry professionals at an ISO 9001:2015 certified organization",
+        "Undergoing through a rigorous 30-day performance observation period to evaluate technical proficiency and integration within the development team.",
       ],
       technologies: [
         "React.js",
