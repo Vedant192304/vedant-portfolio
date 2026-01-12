@@ -29,7 +29,7 @@ const Skills = () => {
     {
       title: "Cloud & DevOps",
       icon: <Cloud className="w-6 h-6" />,
-      skills: ["AWS", "Docker", "Git/GitHub", "CI/CD", "Kafka", "Vercel", "Render"],
+      skills: ["AWS", "Docker", "Git/GitHub", "CI/CD", "Vercel", "Render"],
     },
     {
       title: "Tools & Soft Skills",
