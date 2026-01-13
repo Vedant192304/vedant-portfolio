@@ -75,7 +75,7 @@ const Hero = () => {
               <Mail size={28} />
             </a>
             <a
-              href="https://www.geeksforgeeks.org/user/vedant7639/"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all hover:scale-125"
