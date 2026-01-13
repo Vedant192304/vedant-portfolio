@@ -9,7 +9,7 @@ const Certifications = () => {
       icon: <Code className="w-6 h-6" />,
       title: "Data Structures & Algorithms",
       description: "Solved 100+ algorithmic challenges across LeetCode and GeeksforGeeks, refining problem-solving skills and data-structure mastery.",
-      link: "https://www.geeksforgeeks.org/user/vedant7639/",
+      link: "",
     },
     {
       icon: <Trophy className="w-6 h-6" />,
