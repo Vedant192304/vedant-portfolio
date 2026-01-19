@@ -28,7 +28,7 @@ const Contact = () => {
       icon: <ExternalLink className="w-6 h-6" />,
       label: "GeeksforGeeks",
       value: "View Profile",
-      href: "",
+      href: "https://www.geeksforgeeks.org/profile/vedant7639",
     },
   ];
 
