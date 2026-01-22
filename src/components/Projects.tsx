@@ -22,7 +22,7 @@ const Projects = () => {
       description:
         "Real-time fraud detection system processing transactions using Kafka streaming with 96% accuracy. Uses ensemble learning combining Random Forest and XGBoost algorithms with features like amount Z-score normalization, velocity tracking, and geographic anomaly detection. React dashboard provides real-time monitoring, analytics, and alerts.",
       technologies: ["Python", "Kafka", "Random Forest", "XGBoost", "React.js", "Machine Learning"],
-      github:  null ,
+      github:  "https://github.com/Vedantrajhans/Fraudguard-ai" ,
       live: null,
     },
     {
@@ -40,8 +40,8 @@ const Projects = () => {
       description:
         "Complete live object detection system using TensorFlow.js that detects 80+ object types in real-time directly in the browser. Features visual bounding boxes with confidence scores, FPS counter, and works without any Python dependencies. Uses pre-trained COCO-SSD model for accurate and fast detection with fully customizable code.",
       technologies: ["TensorFlow.js", "JavaScript", "COCO-SSD", "HTML5", "CSS3", "Computer Vision"],
-      github: null,
-      live: "live-object-detection-system.vercel.app" ,
+      github: "https://github.com/Vedantrajhans/Live-Object-Detection-System",
+      live: null ,
     },
     {
       title: "GoFood",
