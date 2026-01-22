@@ -13,7 +13,7 @@ const Projects = () => {
       description:
         "SEO-friendly mentorship marketplace built with Next.js, Node.js, and MongoDB. Features Google/LinkedIn OAuth, advanced search, Stripe payments, and Zoom/Google Meet integration. Deployed on Vercel (frontend) and AWS/Render (backend) for scalable, production-ready performance.",
       technologies: ["Next.js", "Node.js", "MongoDB", "OAuth", "Stripe", "AWS", "Vercel"],
-      github: null,
+      github: "https://github.com/Vedantrajhans/Mentor_Connect",
       live: null,
     },
     {
@@ -22,7 +22,7 @@ const Projects = () => {
       description:
         "Real-time fraud detection system processing transactions using Kafka streaming with 96% accuracy. Uses ensemble learning combining Random Forest and XGBoost algorithms with features like amount Z-score normalization, velocity tracking, and geographic anomaly detection. React dashboard provides real-time monitoring, analytics, and alerts.",
       technologies: ["Python", "Kafka", "Random Forest", "XGBoost", "React.js", "Machine Learning"],
-      github: null,
+      github:  null ,
       live: null,
     },
     {
@@ -41,7 +41,7 @@ const Projects = () => {
         "Complete live object detection system using TensorFlow.js that detects 80+ object types in real-time directly in the browser. Features visual bounding boxes with confidence scores, FPS counter, and works without any Python dependencies. Uses pre-trained COCO-SSD model for accurate and fast detection with fully customizable code.",
       technologies: ["TensorFlow.js", "JavaScript", "COCO-SSD", "HTML5", "CSS3", "Computer Vision"],
       github: null,
-      live: null,
+      live: "live-object-detection-system.vercel.app" ,
     },
     {
       title: "GoFood",
@@ -49,7 +49,7 @@ const Projects = () => {
       description:
         "Advanced food delivery platform built with React.js, Node.js, and MongoDB. Features JWT authentication, dynamic cart management via Context API, and secure backend using Express.js and Mongoose. Implements Bootstrap 5 and modern web standards for scalable, responsive performance.",
       technologies: ["React.js", "Node.js", "MongoDB", "JWT", "Bootstrap", "Express.js"],
-      github: null,
+      github: "https://github.com/Vedantrajhans/GoFood",
       live: null,
     },
     {
