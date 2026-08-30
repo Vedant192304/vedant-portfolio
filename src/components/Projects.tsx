@@ -8,6 +8,15 @@ const Projects = () => {
   const { ref, isVisible } = useScrollAnimation();
   const projects = [
     {
+      title: "Festiva",
+      subtitle: "Event Discovery & Management Platform",
+      description:
+        "Full-stack event discovery platform built with Spring Boot and React. Empowers organizers to manage concerts and attendees to book tickets. Features include AI-generated event summaries, personalized recommendations, MFA security, and real-time QR code check-ins for venues.",
+      technologies: ["Java", "Spring Boot", "React.js", "PostgreSQL", "Groq AI", "JWT"],
+      github: "https://github.com/Vedantrajhans/concert-platform",
+      live: null,
+    },
+    {
       title: "MentorConnect",
       subtitle: "Mentorship Marketplace (In Progress)",
       description:
